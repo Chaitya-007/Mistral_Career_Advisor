@@ -177,3 +177,7 @@ secrets.json
 .env.development
 .env.test
 .env.production
+
+# Test files and directories
+testing_images/
+testing_files/
